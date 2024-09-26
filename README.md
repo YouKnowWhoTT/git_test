@@ -1,1 +1,3 @@
 # git_test
+Hello Odin 
+it it nice to step into this course, hope i can do the best through tjis course...
